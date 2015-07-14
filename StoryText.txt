@@ -27,4 +27,8 @@ D. After several seconds of non-motion, the elevator pings and there is a sudden
 M. Leave the elevator.
 N. Wait.
 
-E. 
+E. The doors open for a split second, exposing you to the full force of the Sun's radiation. Somehow, the elevator has stopped 15 meters from the surface of the star. You don't even have time to ponder how this is physically possible before you perish.
+
+GAME OVER.
+
+F. The doors close. Wait, they're already closed. Somehow, they give off an optical illusion or something of closing despite being closed. 
