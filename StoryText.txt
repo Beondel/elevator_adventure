@@ -19,7 +19,7 @@ I. Wait.
 C. Your phone displays the date. It is Tuesday, May 18. Then, you remember that's the sticker you put on the front of your phone. D'oh. Your phone refuses to turn on, since the battery has been removed. You have no other last resort to divert your attention toward. Your eyes naturally track downward to your feet. Suddenly, you notice an iPhone battery lying there.
 
 J. Pick it up.
-K. Step on it.
+K. Jump on it.
 L. Wait.
 
 D. After several seconds of non-motion, the elevator pings and there is a sudden, distinct lack of momentum. The elevator floor display shows "13". Just kidding, that's a "B". The doors open into what feels like a large, open space filled with blackness. A slight, warm breeze with a hint of salt blows into the elevator. It reminds you of the sea.
@@ -51,3 +51,14 @@ V. Wait.
 I. You burn up upon atmospheric reentry. Your remains end up in the Pacific, off the coast of Japan.
 
 GAME OVER
+
+J. You pick up the iPhone battery. It appears to be a AAA battery painted crudely to look like an iPhone. The dimensions don't quite fit, which is exactly why it appears to be crudely painted.
+
+W. Attempt to jam it into your phone.
+X. Read the fine print you can see on the back of the battery.
+Y. Wait.
+
+K. You JUMP ON IT! JUMP ON IT! JUMP ON IT! The battery begins hissing, as if it is leaking gas. Then, it bursts into flames and explodes. Your legs are severely burned. Strangely, you feel no pain, most likely because you have gone into shock.
+
+Z. Die
+
