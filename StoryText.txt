@@ -64,4 +64,20 @@ Z. Die.
 
 L. * * * SAME AS G * * *
 
-M. For some reason, you find yourself on a beach. There are no other people. 
+M. For some reason, you find yourself on a beach. There are no other people. You look around and see a lone beach chair with an umbrella next to it.
+
+A2. Start tanning on the chair.
+B2. Start tanning on the sand.
+C2. Wait.
+
+N. The gates of heaven close after several minutes. The elevator suddenly begins descending at a rapid pace. There is a sinking feeling in your stomach, primarily because you are now in free-fall. You burn up upon atmospheric reentry. Your remains end up in the Pacific, off the coast of Japan.
+
+GAME OVER
+
+O. There are no visible (or otherwise detectable) sources of sound in the elevator besides yourself. As you examine the elevator, the doors close. The smooth jazz fades away.
+
+D2. Request a song from the elevator.
+E2. Randomly press buttons.
+F2. Wait.
+
+P. 
