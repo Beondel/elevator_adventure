@@ -80,4 +80,20 @@ D2. Request a song from the elevator.
 E2. Randomly press buttons.
 F2. Wait.
 
-P. 
+P. You are immediately greeted by one of those intern-types. You know, the ones who you see running around the office doing trivial, pointless tasks. He pulls you to a desk, which surprisingly already has a sticker with your name plastered on it. You pick up the stapler on the desk, and see it also has your name stickered onto it. A packet of paper is lying in the center of the desk. The cover reads, "WORKING IN HELL: INSTRUCTION MANUAL".
+
+G2. Go back to the elevator.
+H2. Spend the rest of eternity at a desk job.
+I2. Wait.
+
+Q. The gates of hell close after several minutes. The elevator suddenly begins descending at a rapid pace. There is a sinking feeling in your stomach, primarily because you are now in free-fall. You burn up upon atmospheric reentry. Your remains end up in the Pacific, off the coast of Japan.
+
+GAME OVER
+
+R. You die of dehydration.
+
+GAME OVER
+
+S. * * * See R * * *
+
+T. 
