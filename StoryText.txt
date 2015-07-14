@@ -31,4 +31,8 @@ E. The doors open for a split second, exposing you to the full force of the Sun'
 
 GAME OVER.
 
-F. The doors close. Wait, they're already closed. Somehow, they give off an optical illusion or something of closing despite being closed. 
+F. The doors close. Wait, they're already closed. Somehow, they give off an optical illusion or something of closing despite being closed. The other people walk through the elevator doors in single file. Wasn't that closed just a moment ago? You should stop blinking so often. Through the doors, you can see a completely white space filled with cubicles seemingly placed at random. Smooth jazz starts playing in the elevator.
+
+O. Examine source of sound.
+P. Exit elevator.
+Q. Wait.
