@@ -60,5 +60,8 @@ Y. Wait.
 
 K. You JUMP ON IT! JUMP ON IT! JUMP ON IT! The battery begins hissing, as if it is leaking gas. Then, it bursts into flames and explodes. Your legs are severely burned. Strangely, you feel no pain, most likely because you have gone into shock.
 
-Z. Die
+Z. Die.
 
+L. * * * SAME AS G * * *
+
+M. For some reason, you find yourself on a beach. There are no other people. 
