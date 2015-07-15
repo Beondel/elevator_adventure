@@ -98,7 +98,7 @@ S. * * * See R * * *
 
 T. Falling back on your years of professional DDR experience from playing in arcades, you mash out the steps to Pluto the First perfectly. Unfortunately, your moves were so hot the elevator caught fire. Flames are coming in from outside the doors, and the air around you is getting uncomfortably hot.
 
-J2. Take off your clothes due to the increasing heat.
+J2. Take off your clothes due to the increasing heat and continue to play.
 K2. Press the ELEVATOR STOP button.
 L2. Wait.
 
@@ -129,4 +129,41 @@ Z. You die.
 
 GAME OVER
 
-A2. 
+A2. You change into your swimsuit, which is lying on the chair, and attempt to suntan. Unfortunately, the light source, which you thought to be the sun, slowly materializes into the shape of a fluorescent lightbulb as your vision adjusts to the change in lighting. This also means that the air around you isn't as hot sas you thought it was. Indeed, with most of your clothes off, it seems like you're standing in an Arctic wasteland. The polar bear lumbering by doesn't help in convincing you otherwise.
+
+T2. Talk to the polar bear.
+U2. Wait.
+
+B2. * * * SAME AS A2 * * *
+
+C2. Nothing happens. Then, something does happen. You hear a rumbling coming from the ocean. Thinking nothing of it, you continue waiting. After a while, a tsunami slams into you. You drown.
+
+GAME OVER
+
+D2. There is a pause. Then, almost reluctantly, the elevator begins playing a standard version of "Happy Birthday." It is addressed to Tim. You are not Tim. The song repeats once before ending.
+
+V2. Request another song.
+W2. Randomly press buttons.
+X2. Wait.
+
+E2. * * * SAME AS H * * *
+
+F2. Nothing happens. For the next 48 hours. You are lying on the floor, severely dehydrated and starved. For the past couple of hours, you have been experiencing hallucinations of varying degree involving topics from the mundane (like your breakfast from a week ago talking to you) to the worldy, supernatural, and cliche (such as your dead mother, even though she is actually alive).
+
+Y2. Wait.
+
+G2. The elevator seems to have disappeared, or you may have gotten so turned around that you have lost all sense of direction. Haphazardly-placed cubicles stretch off into the horizon in all directions. Deciding you have nothing better to do, you spend the rest of eternity working at a pointless desk job.
+
+BAD END
+
+H2. BAD END
+
+I2. You spend the rest of eternity waiting at your desk.
+
+BAD END
+
+J2. You keep on grooving so hard, you do not notice your surroundings being consumed by some supernaturally powerful flames. When you come to your senses again, you realize that you have ascended the mortal plane and are now omniscient and omnipotent. Congrats.
+
+HIDDEN (GOOD) END
+
+K2. 
