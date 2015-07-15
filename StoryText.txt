@@ -166,4 +166,46 @@ J2. You keep on grooving so hard, you do not notice your surroundings being cons
 
 HIDDEN (GOOD) END
 
-K2. 
+K2. The elevator reverts to its normal state, except the fire is still there. Despairing there is nothing you can do, you succumb to oxygen deprivation and/or nonspontaneous combustion.
+
+GAME OVER
+
+L2. You succumb to oxygen deprivation and/or nonspontaneous combustion.
+
+GAME OVER
+
+M2. You take a nap and wake up.
+
+Z2. Examine surroundings.
+
+N2. * * * Same as D * * *
+
+O2. * * * SEE ABOVE * * *
+
+P2 * * * SEE ABOVE * * *
+
+Q2. * * * Same as D * * *
+
+R2. * * * Same as E * * *
+
+S2. * * * Same as F2 * * *
+
+T2. You hold a lengthy, metaphysical conversation with the polar bear. Due to time and budget constraints, it will not be recorded here. At the end of your meeting, It decides you are worth yof rebirth and throws you back into the still-open elevator.
+
+MEDIUM END
+
+U2. The polar bear ambles off after a short while. The lights flicker once or twice, and the scenery has changed. You are lying in the middle of a completely white, borderless room. Cubicles are scattered at random across the landscape.
+
+A3. Examine surroundings.
+
+V2. * * * Same as D2 * * *
+
+W2. * * * Same as H * * *
+
+X2. * * * Same as F2 * * *
+
+Y2. * * * Same as R * * *
+
+Z2. * * * Same as D * * *
+
+A3. * * * Same as P * * *
